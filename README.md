@@ -1,4 +1,4 @@
-# Robotics & Embodied AI Engineering Portfolio
+# Robotics Engineering Portfolio
 
 Welcome to my robotics engineering portfolio. Here you will find architectural overviews, hardware/software stacks, and real-world validation demos for the autonomous robotic systems I have designed and engineered.
 
