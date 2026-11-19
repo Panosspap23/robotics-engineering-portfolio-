@@ -2,7 +2,7 @@
 
 Welcome to my robotics engineering portfolio. Here you will find architectural overviews, hardware/software stacks, and real-world validation demos for the autonomous robotic systems I have designed and engineered.
 
-> **Note on Source Code:** Due to intellectual property, ongoing research, and competition constraints, the source code repositories for these platforms remain private. For technical walkthroughs, architecture discussions, or inquiries, feel free to connect via LinkedIn or email.
+> **Note on Source Code:** Due to intellectual property, ongoing research, and competition constraints, the source code repositories for these platforms remain private. For technical walkthroughs, architecture discussions, or inquiries, feel free to connect via [LinkedIn](https://www.linkedin.com/in/panagiotis-papaioannou-628b21405/).
 
 ---
 
@@ -18,7 +18,14 @@ Welcome to my robotics engineering portfolio. Here you will find architectural o
 
 ## 🛠️ Core Technical Competencies
 
-* **Robotics Middleware & Control:** ROS 2 (Humble), `ros2_control` (custom C++ hardware interfaces), MoveIt 2, OMPL, Nav2, SLAM Toolbox, URDF/Xacro, Gazebo / RViz2
-* **Edge AI & Perception:** NVIDIA TensorRT, Ultralytics YOLO, OpenCV, DepthAI (OAK-D RGB-D), 3D Spatial Estimation, Local LLM Agentic Orchestration (Llama)
-* **Embedded & Hardware Integration:** NVIDIA Jetson Orin, Raspberry Pi, ESP32, STM32, RS485, UART/Serial (`LibSerial`), PWM, LiDAR, IMU, Quadrature Encoders
-* **Languages & Tools:** C++, Python, Linux (Ubuntu), Docker, Git
+- **Robotics Middleware & Control:** ROS 2 (Humble), `ros2_control` (custom C++ hardware interfaces), MoveIt 2, OMPL, Nav2, SLAM Toolbox, URDF/Xacro, Gazebo / RViz2
+- **Edge AI & Perception:** PyTorch, NVIDIA TensorRT, Ultralytics YOLO, OpenCV, DepthAI (OAK-D RGB-D), NumPy, 3D Spatial Estimation, Local LLM Agentic Orchestration (Llama)
+- **Embedded & Hardware Integration:** NVIDIA Jetson Orin, Raspberry Pi, ESP32, STM32, RS485, UART/Serial (`LibSerial`), PWM, LiDAR, IMU, Quadrature Encoders
+- **Languages & Tools:** C++, Python, Linux (Ubuntu), Docker, Git
+
+---
+
+## 📫 Contact & Links
+
+* **LinkedIn:** [linkedin.com/in/panagiotis-papaioannou](https://www.linkedin.com/in/panagiotis-papaioannou-628b21405/)
+* **GitHub:** [github.com/Panosspap23](https://github.com/Panosspap23)
