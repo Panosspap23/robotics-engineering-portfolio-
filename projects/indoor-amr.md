@@ -1,6 +1,3 @@
----
-
-### 2. Αρχείο: `projects/indoor-amr.md`
 
 ```markdown
 # Indoor Autonomous Mobile Robot (TurtleBot-Based)
