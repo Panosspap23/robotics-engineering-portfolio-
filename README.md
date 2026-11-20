@@ -2,7 +2,7 @@
 
 Welcome to my robotics engineering portfolio. Here you will find architectural overviews, hardware/software stacks, and real-world validation demos for the autonomous robotic systems I have designed and engineered.
 
-> **Note on Source Code:** Due to intellectual property, ongoing research, and competition constraints, the source code repositories for these platforms remain private. For technical walkthroughs, architecture discussions, or inquiries, feel free to connect via [LinkedIn](https://www.linkedin.com/in/panagiotis-papaioannou-628b21405/).
+> For technical walkthroughs, architecture discussions, or inquiries, feel free to connect via [LinkedIn](https://www.linkedin.com/in/panagiotis-papaioannou-628b21405/).
 
 ---
 
