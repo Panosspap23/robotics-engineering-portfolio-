@@ -8,11 +8,11 @@ Welcome to my robotics engineering portfolio. Here you will find architectural o
 
 ## 🚀 Featured Systems
 
-| System | Domain & Role | Core Stack | Documentation & Demos |
+| System | Domain & Role | Core Stack |  Demos |
 | :--- | :--- | :--- | :--- |
-| **[Project "Stafylos"](projects/stafylos.md)** | Autonomous Agricultural Mobile Manipulator *(2nd Place — RoboChallenge, Bucharest)* · **Project Manager & Lead Software Engineer** | ROS 2 Humble, Jetson Orin, ESP32, `ros2_control`, Nav2, MoveIt 2, TensorRT YOLO, OAK-D, Llama | [**Full Architecture & Specs →**](projects/stafylos.md)<br>[Inspection Demo](https://youtu.be/n7WPfNsPrRU) · [Harvesting Demo](https://youtu.be/G2A0STDV4bA) |
-| **[Multi-DOF Robotic Arm](projects/robotic-arm.md)** | Articulated Manipulator Design & Control · **Robotics Engineer** | ROS 2, MoveIt 2, `ros2_control`, Kinematics / Trajectory Planning, Embedded Control | [**Full Architecture & Specs →**](projects/robotic-arm.md) |
-| **[Autonomous Indoor AMR](projects/indoor-amr.md)** | Autonomous Mobile Robot (SLAM & Navigation) · **Robotics Engineer** | ROS 2, Nav2, SLAM Toolbox, EKF Sensor Fusion, LiDAR, IMU | [**Full Architecture & Specs →**](projects/indoor-amr.md) |
+| **[Project "Stafylos"](projects/stafylos.md)** | Autonomous Agricultural Mobile Manipulator *(2nd Place — RoboChallenge, Bucharest)* · **Project Manager & Lead Software Engineer** | ROS 2 Humble, Jetson Orin, ESP32, `ros2_control`, Nav2, MoveIt 2, TensorRT YOLO, OAK-D, Llama | [**Specs →**](projects/stafylos.md)<br>[Inspection Demo](https://youtu.be/n7WPfNsPrRU) · [Harvesting Demo](https://youtu.be/G2A0STDV4bA) |
+| **[Multi-DOF Robotic Arm](projects/robotic-arm.md)** | Articulated Manipulator Design & Control · **Robotics Engineer** | ROS 2, MoveIt 2, `ros2_control`, Kinematics / Trajectory Planning, Embedded Control | [**Specs →**](projects/robotic-arm.md) |
+| **[Autonomous Indoor AMR](projects/indoor-amr.md)** | Autonomous Mobile Robot (SLAM & Navigation) · **Robotics Engineer** | ROS 2, Nav2, SLAM Toolbox, EKF Sensor Fusion, LiDAR, IMU | [**Specs →**](projects/indoor-amr.md) |
 
 ---
 
