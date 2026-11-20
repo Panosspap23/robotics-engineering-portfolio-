@@ -1,21 +1,3 @@
-
-```markdown
-# Indoor Autonomous Mobile Robot (TurtleBot-Based)
-
-**Role:** Robotics Engineer (Individual Project)  
-**Stack:** ROS2 (Humble/Foxy), Nav2, SLAM Toolbox, AMCL, `robot_localization` (EKF), `ros2_control`, TF2, Behavior Trees, Gazebo, RViz2, C++, Python
-
----
-
-## Overview
-
-Full-stack hardware assembly, low-level embedded control, and autonomous navigation pipeline for a TurtleBot-based differential-drive mobile robot. Built from scratch to validate sensor-fused odometry, SLAM mapping, probabilistic localization, and Behavior Tree mission execution in simulation prior to real-world deployment.
-
----
-
-## Autonomy & Navigation Architecture
-
-```mermaid
 flowchart TB
     subgraph Sensors ["Hardware & Embedded Layer"]
         ENC["Wheel Encoders"]
